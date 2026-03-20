@@ -1,0 +1,4 @@
+shift,Failures,Failure_Rate,Avg_OEE,Failure_%
+Afternoon,126,0.0108,0.9416,1.08
+Morning,0,0.0,0.9428,0.0
+Night,126,0.0108,0.9413,1.08

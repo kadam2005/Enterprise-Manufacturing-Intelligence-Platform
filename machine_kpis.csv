@@ -1,0 +1,5 @@
+machine_id,OEE,Health_Score,Failure_Rate,Total_Failures,Avg_Temperature,Avg_Vibration,Yield_Rate,OEE_%,Failure_Rate_%,Yield_%,Status
+Machine_A,0.9417,95.199,0.0073,64,75.8495,2.6335,0.9635,94.2,0.73,96.4,🟢 HEALTHY
+Machine_B,0.944,95.5458,0.0059,52,75.7668,2.5989,0.9639,94.4,0.59,96.4,🟢 HEALTHY
+Machine_C,0.9427,95.4392,0.0064,56,75.8242,2.6096,0.9637,94.3,0.64,96.4,🟢 HEALTHY
+Machine_D,0.9391,94.8649,0.0091,80,76.1024,2.665,0.9634,93.9,0.91,96.3,🟢 HEALTHY
