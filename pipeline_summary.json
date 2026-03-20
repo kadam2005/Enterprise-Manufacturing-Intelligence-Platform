@@ -1,0 +1,21 @@
+{
+  "run_timestamp": "2026-03-18 13:37:06.009468",
+  "total_rows": 35040,
+  "total_features": 51,
+  "train_samples": 28032,
+  "test_samples": 7008,
+  "rf_accuracy": 1.0,
+  "rf_f1": 1.0,
+  "rf_auc": 1.0,
+  "gb_accuracy": 0.9997,
+  "gb_f1": 0.9796,
+  "kpi_avg_oee": 0.9419,
+  "kpi_failure_rate": 0.0072,
+  "kpi_avg_health": 95.26,
+  "kpi_mtbf_hrs": 138.05,
+  "models_saved": [
+    "random_forest.pkl",
+    "gradient_boost.pkl",
+    "isolation_forest.pkl"
+  ]
+}

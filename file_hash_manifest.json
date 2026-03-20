@@ -1,0 +1,20 @@
+{
+  "/content/data_lake/raw_data/sensor_readings_2024.csv": "de37cdc7b806522f3c24ea9764b2d1ee105ac948c2e92ed3ee11ba4033624224",
+  "/content/data_lake/processed_data/cleaned_sensor_data.csv": "8497fe5a3b3bfa25b538c8184c975cbdd8dadc83f06aabd9da04139a413cd402",
+  "/content/data_lake/processed_data/final_dataset.csv": "b41d83b2603aea8f1d9e25b64ce7379be4d4db5ef535c5f15d56c0336f35529a",
+  "/content/data_lake/processed_data/engineered_features.csv": "a5ccd4b2e681fcd7d6484dc6e488bb830342a937d384361ef18d7d0255b28e97",
+  "/content/data_lake/model_output/predictions.csv": "52440fcc84b9c2a3598f469bb35c17a352e36c53af1bb884f24940e368c6f29a",
+  "/content/data_lake/model_output/feature_list.json": "1d23ab7b3dd03fd999c093aa2bafe3f43ae887c68b42357005fcdfc6920b7853",
+  "/content/data_lake/model_output/isolation_forest.pkl": "ef386b824a08af5e3ed219f8ccaf29c1824d22d40b440ecae075d5ac3de57ca7",
+  "/content/data_lake/model_output/gradient_boost.pkl": "1389eec015e8e97f517e0320c481c3f19aa1a755d4af130771d27907811cd90e",
+  "/content/data_lake/model_output/random_forest.pkl": "bf376cf064f06bda8ce78c73fe26f77ee739641448db48f89e6ecbcd9975aca9",
+  "/content/data_lake/kpi_output/eda_03_correlation.png": "4378e812335107ad56e7c6a4622ed79e9f2ae48edb6360f6f993b9008733640e",
+  "/content/data_lake/kpi_output/eda_01_distributions.png": "aba424f5260426f2848191f3142c534caf67cda76de429dbd3fb96d736f96b07",
+  "/content/data_lake/kpi_output/shift_kpis.csv": "027d1f216cfa0ae9d454c4dce30c8faded1c37dd3ae435e492c87d85bbd32b7b",
+  "/content/data_lake/kpi_output/machine_kpis.csv": "887b69cef2b3ec28fcd73a1ee6e6f9e552c3f0d6caf1de8efd177730fdf0be14",
+  "/content/data_lake/kpi_output/model_evaluation.png": "b01b0bf04f8af532407b294f46060cb1109cb1bb72128c68b56d1d187fb34858",
+  "/content/data_lake/kpi_output/eda_02_normal_vs_failure.png": "48084617919a9d1a0e1ca8e4b4956d75c3e7815a3b72e551e7d0789a6f4adeca",
+  "/content/data_lake/kpi_output/kpi_dashboard.png": "14cd25c3b40ea59d63b9190ae6a6cedb3eadacbda68680d43b9b03130101d670",
+  "/content/data_lake/logs/pipeline_summary.json": "41ab41329bd1289a7d20b430eaa710161ecb21140c3dcd30427a572b67172fcf",
+  "/content/data_lake/logs/pipeline_log.json": "d5476b178349af960880833fd535b612c05cef4fef682980b7889b2b8aa69b83"
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "step": "ingestion",
+    "timestamp": "2026-03-18 13:35:25.702898",
+    "rows": 35040,
+    "columns": 15,
+    "machines": [
+      "Machine_A",
+      "Machine_B",
+      "Machine_C",
+      "Machine_D"
+    ],
+    "failure_rate_pct": 0.72
+  }
+]
