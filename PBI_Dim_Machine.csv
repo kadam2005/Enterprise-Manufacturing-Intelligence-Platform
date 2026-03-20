@@ -1,0 +1,5 @@
+machine_id,machine_name,machine_type,location,install_year,rated_rpm,manufacturer
+Machine_A,CNC Lathe A,CNC Machining,Plant Floor 1,2018,1500,Haas
+Machine_B,Hydraulic Press B,Hydraulic,Plant Floor 1,2019,1200,Parker
+Machine_C,Assembly Robot C,Robotics,Plant Floor 2,2021,2000,FANUC
+Machine_D,Conveyor Drive D,Conveyor,Plant Floor 2,2017,900,Dorner
