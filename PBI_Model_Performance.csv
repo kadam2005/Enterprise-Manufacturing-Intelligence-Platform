@@ -1,4 +1,4 @@
-Model,Accuracy,F1_Score,ROC_AUC,Use_Case
-Random Forest,1.0,1.0,1.0,Failure Classification
-Gradient Boosting,0.9999,0.9895,1.0,Risk Probability Scoring
-Isolation Forest,0.9583,0.2589,0.81,Anomaly Detection
+Model,Accuracy,Precision,Recall,F1_Score,ROC_AUC,Use_Case
+Random Forest,1.0,1.0,1.0,1.0,1.0,Failure Classification
+Gradient Boosting,0.9997,1.0,0.96,0.9796,0.9999,Risk Probability Scoring
+Isolation Forest,0.9579,0.1449,1.0,0.2532,0.81,Anomaly Detection
